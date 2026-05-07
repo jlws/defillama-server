@@ -283,7 +283,7 @@
     },
     "0xecac9c5f704e954931349da37f60e39f515c11c1": {
       "to": "coingecko#ethereum:0x8236a87084f8B84306f72007F36F2618A5634494",
-      "decimals": 18,
+      "decimals": 8,
       "symbol": "LBTC"
     },
     "0xA18717e22dfAbB36f0242259df4e9E563b6Ec70a": {
@@ -5308,7 +5308,7 @@
     },
     "0x102d758f688a4C1C5a80b116bD945d4455460282": {
       "to": "coingecko#usdt0",
-      "decimals": 18,
+      "decimals": 6,
       "symbol": "USDT0"
     },
     "0xB7EcE25d412210499C35A9525FF01553E39A2927": {
@@ -8731,7 +8731,7 @@
       "to": "coingecko#wrapped-bitcoin"
     },
     "0x5d26DeA980716e4aBa19F5B73Eb3DCcE1889F042": {
-      "decimals": "8",
+      "decimals": "18",
       "symbol": "ZEEP",
       "to": "coingecko#zeepr"
     }
@@ -12185,7 +12185,7 @@
     },
     "0x102d758f688a4C1C5a80b116bD945d4455460282": {
       "to": "coingecko#usdt0",
-      "decimals": 18,
+      "decimals": 6,
       "symbol": "USDT0"
     },
     "0x79A02482A880bCE3F13e09Da970dC34db4CD24d1": {
@@ -13392,7 +13392,7 @@
     },
     "0x80eFAD50D395671C13C4b1FA2969f7a7Aa9EF7b3": {
       "to": "coingecko#fluidity-money",
-      "decimals": 18,
+      "decimals": 6,
       "symbol": "FLY"
     },
     "0x6e142cdaefa4ba7786e8d1ff74968db67c3b910d": {
@@ -13638,7 +13638,7 @@
     },
     "0x1e4a5963abfd975d8c9021ce480b42188849d41d": {
       "to": "coingecko#tether",
-      "decimals": 18,
+      "decimals": 6,
       "symbol": "USDT"
     },
     "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035": {
@@ -13932,7 +13932,7 @@
       "to": "coingecko#wrapped-bitcoin"
     },
     "0x93919784c523f39cacaa98ee0a9d96c3f32b593e": {
-      "decimals": "8",
+      "decimals": "18",
       "symbol": "brBTC",
       "to": "coingecko#bedrock-btc"
     },
