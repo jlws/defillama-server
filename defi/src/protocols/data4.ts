@@ -28292,13 +28292,13 @@ const data4: Protocol[] = [
   },
   {
     id: "6794",
-    name: "Tigris Mezo",
+    name: "Mezo Tigris V2",
     address: null,
     symbol: "-",
     url: "https://mezo.org/explore/pools",
-    description: "Tigris is Mezo's native ve(3,3) DEX and incentive management system featuring stable/volatile AMM pools, vote-escrow tokenomics, and fee distribution to voters",
+    description: "An Aerodrome-style AMM with either constant-product or stable-curve pricing.",
     chain: "Mezo",
-    logo: `${baseIconsUrl}/tigris-mezo.jpg`,
+    logo: `${baseIconsUrl}/mezo-tigris-v2.jpg`,
     audits: "0",
     gecko_id: null,
     cmcId: null,
@@ -28306,6 +28306,7 @@ const data4: Protocol[] = [
     chains: ["Mezo"],
     module: "mezo-tigris/index.js",
     twitter: "MezoNetwork",
+    parentProtocol: "parent#mezo-tigris",
     listedAt: 1759338887
   },
   {

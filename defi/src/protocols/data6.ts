@@ -2126,6 +2126,7 @@ const data6: Protocol[] = [
     chains: ["Mezo"],
     module: "mezo-swap-v3/index.js",
     twitter: "MezoNetwork",
+    parentProtocol: "parent#mezo-tigris",
     listedAt: 1778159220
   },
 ];

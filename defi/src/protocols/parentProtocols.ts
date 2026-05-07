@@ -9648,6 +9648,18 @@ const parentProtocols: IParentProtocol[] = [
     twitter: "HermeticaFi",
     stablecoins: ["hermetica-usdh"],
   },
+  {
+    id: "parent#mezo-tigris",
+    name: "Mezo Tigris",
+    url: "https://mezo.org/feature/swap",
+    description:
+      "Tigris is Mezo's native ve(3,3) DEX and incentive management system featuring stable/volatile AMM pools, vote-escrow tokenomics, and fee distribution to voters.",
+    logo: `${baseIconsUrl}/tigris-mezo.jpg`,
+    gecko_id: null,
+    cmcId: null,
+    chains: [],
+    twitter: "MezoNetwork",
+  },
 ];
 
 export default parentProtocols;
