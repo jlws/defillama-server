@@ -2124,7 +2124,7 @@ const data6: Protocol[] = [
     cmcId: null,
     tags: ["CLMM"],
     chains: ["Mezo"],
-    module: "mezo-swap-v3/index.js",
+    module: "mezo-tigris-v3/index.js",
     twitter: "MezoNetwork",
     parentProtocol: "parent#mezo-tigris",
     listedAt: 1778159220
