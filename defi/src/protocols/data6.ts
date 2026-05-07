@@ -2109,5 +2109,24 @@ const data6: Protocol[] = [
     excludeTvlFromParent: true, // full tvl value is represented under the usdh product
     listedAt: 1778142267
   },
+  {
+    id: "7808",
+    name: "Mezo Tigris V3",
+    address: null,
+    symbol: "-",
+    url: "https://mezo.org/explore/pools",
+    description:
+      "A concentrated liquidity DEX based on Velodrome Slipstream.",
+    chain: "Mezo",
+    logo: `${baseIconsUrl}/mezo-tigris-v3.jpg`,
+    audits: "0",
+    gecko_id: null,
+    cmcId: null,
+    tags: ["CLMM"],
+    chains: ["Mezo"],
+    module: "mezo-swap-v3/index.js",
+    twitter: "MezoNetwork",
+    listedAt: 1778159220
+  },
 ];
 export default data6;
